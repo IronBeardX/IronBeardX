@@ -14,7 +14,7 @@ I'm really interested in the field of artificial intelligence and hope to work o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,py,cs,php,js,docker,vue,latex,md,django,mysql,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,linux,py,cs,php,js,vue,latex,md,django,mysql,laravel" />
   </a>
  </p>
 
